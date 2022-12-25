@@ -1,0 +1,20 @@
+.form_message {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.form_message-success {
+  color: var(--color-susccess);
+}
+
+.form_message-error {
+  color: red;
+}
+
+.form-hidden,
+.m-hidden {
+    display: none;
+}
+body {
+  background-color: #508bfc;
+}
